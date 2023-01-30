@@ -20,8 +20,8 @@
   <a href="https://github.com/hocntph22459" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
-   <a href="https://www.tiktok.com/@hocclnh" alt="Github">
-    <img src="https://p16-tiktokcdn-com.akamaized.net/obj/tiktok-obj/c5ec3bed29afa42e8bccd23c97f537e4"/>
+   <a href="https://www.tiktok.com/@hocclnh" alt="tiktok">
+    <img width="48px" src="https://p16-tiktokcdn-com.akamaized.net/obj/tiktok-obj/c5ec3bed29afa42e8bccd23c97f537e4"/>
   </a> 
   <a href="mailto:hocntph22459@fpt.edu.vn" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
